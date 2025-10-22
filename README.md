@@ -1,7 +1,7 @@
 # TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan
 
 
-Accéder au site [Ecoride](https://github.com/guetguet7/TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan.git).
+Accéder au site [Ecoride](http://formation.studi/ecf/TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan/app/).
 
 ***
 

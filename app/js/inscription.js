@@ -23,6 +23,6 @@ document.getElementById("formInscription").addEventListener("submit", function(e
   if(role.value === "chauffeur" || role.value === "lesdeux"){
     window.location.href = "utilisateur.html";
   } else {
-    window.location.href = "accueil.html";
+    window.location.href = "index.html";
   }
 });

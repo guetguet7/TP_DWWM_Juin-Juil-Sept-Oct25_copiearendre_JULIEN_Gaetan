@@ -1,44 +1,40 @@
 # TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan
 
-# TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan
 
+Accéder au site [Ecoride](http://formation.studi/ecf/TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan/app/).
+
+***
+
+## Description du projet Ecoride
 EcoRide est une application web de covoiturage écologique permettant aux utilisateurs de :
 
-rechercher des trajets,
-consulter les détails des covoiturages,
-participer à un trajet,
-gérer leur espace utilisateur,
-et suivre les trajets en cours.
+* Rechercher des trajets
+* Consulter les détails des covoiturages
+* Participer à un trajet
+* Gérer leur espace utilisateur
+* Et suivre les trajets en cours
+
 L’objectif principal est de promouvoir la mobilité durable à travers un site simple, responsive et agréable à utiliser.
 
-Visiteur
-Consulter la page d’accueil avec présentation et recherche d’itinéraires
-Accéder aux covoiturages disponibles
-Filtrer selon :
-le caractère écologique du trajet (voiture électrique),
-le prix maximum,
-la note minimale du conducteur,
-la durée maximale du trajet.
-Consulter les détails d’un trajet
-Créer un compte utilisateur
+***
 
-Utilisateur
-Se connecter / se déconnecter
-Participer à un covoiturage (si places et crédits disponibles)
-Gérer ses informations personnelles
-Visualiser son historique de trajets
+## Organisation du projet
 
-Employé
-Valider ou refuser les avis laissés par les passagers
-Gérer les covoiturages signalés comme problématiques
+L'organisation du projet se découpe en 2 dossiers, 
+l'un nommé app contient tout le code de l'application.
+l'autre nommé doc contient donc toute la documentation du projet tel que :
 
-Administrateur
-Gérer les comptes des employés et utilisateurs
-Consulter des statistiques : nombre de trajets / crédits gagnés
-Suspendre des comptes
+* Chartes graphique
+* Maquettes Wireframe et MockUp
+* Diagramme de classe
+* Diagrammes de séquences 
 
-Technologie utilisé:
+***
+
+## Déploiement du site 
+Se déplacer dans les dossier TP_DWWM_Juin-Juil-Sept-Oct25_copiearendre_JULIEN_Gaetan ensuite dans app enfin cliquer sur index.html 
+
+## Technologie utilisé:
 HTML, Css, Boostrap, Javascript, LocalStorage et github 
 
-Déploiement:
-localement avec github ou en ligne avec githubPages
+

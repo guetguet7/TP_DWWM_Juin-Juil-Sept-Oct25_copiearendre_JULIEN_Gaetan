@@ -24,6 +24,6 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.setItem("vehicule", JSON.stringify(vehicule));
 
     alert("Informations sauvegardées !");
-    window.location.href = "accueil.html";
+    window.location.href = "index.html";
   });
 });
